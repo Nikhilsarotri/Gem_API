@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project leverages the Gemini API (1.5 model) for learning purposes. It demonstrates how to integrate machine learning models into a React application
 
 ## Available Scripts
 
